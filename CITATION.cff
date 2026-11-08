@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pyHeat2D: a generic two-dimensional solver for heat diffusion problems"
+version: 0.0.1
+license: MIT
+repository-code: "https://github.com/elhadjmama/pyHeat2D"
+authors:
+  - family-names: "GUENE"
+    given-names: "El Hadji Mama"
+    affiliation: "Cayor Logic System"
+  - family-names: "NDAO"
+    given-names: "Makha"
+    affiliation: "Université Amadou Mahtar Mbow"
+  - family-names: "BA"
+    given-names: "Oumar"
+    affiliation: "Cayor Logic System"
