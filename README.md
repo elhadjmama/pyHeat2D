@@ -166,9 +166,9 @@ python -m pytest tests        # or: python tests/test_steady_state.py
 
 - *Technical report: Python package for 2D diffusion simulation*: user guide with examples (composite wall,
   shapes other than a rectangle).
-- M. Ndao, E. H. M. Guene, O. Ba, *A generic two-dimensional solver for heat diffusion problems and its
-  application to Earth heat transfer* (in preparation): method and validation.
+- Guene El Hadji Mama, Ndao. Makha , Ba. Oumar, *A generic two-dimensional solver for heat diffusion problems and its
+  application to Earth heat transfer* (in submission): method and validation.
 
 ## Authors and licence
 
-El Hadji Mama GUENE (SolayMath) and Makha NDAO (Universite Amadou Mahtar Mbow). MIT licence, see `LICENSE`.
+El Hadji Mama GUENE (Cayor Logic System) and Makha NDAO (Universite Amadou Mahtar Mbow). MIT licence, see `LICENSE`.
