@@ -171,4 +171,4 @@ python -m pytest tests        # or: python tests/test_steady_state.py
 
 ## Authors and licence
 
-El Hadji Mama GUENE (Cayor Logic System) and Makha NDAO (Universite Amadou Mahtar Mbow). MIT licence, see `LICENSE`.
+El Hadji Mama GUENE (Cayor Logic System), Makha NDAO (Universite Amadou Mahtar Mbow) and Oumar BA (Cayor Logic System). MIT licence, see `LICENSE`.
