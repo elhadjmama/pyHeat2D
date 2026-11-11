@@ -61,6 +61,10 @@ boundary = BoundaryConditions(nx, ny, domain)
 boundary.customize_boundary_conditions_from_vertices(domain, vertex_pos,
                                                      g_func=lambda x, y: 0.0, tbc_func=lambda x, y: 0.0)
 
+# Visualization
+domain.visualize_meshgrid(centroid_pos, vertex_pos, "Meshgrid Visualization with Boundary Directions")
+domain.visualize_boundary_conditions(vertex_pos)
+
 # 3. physical parameters and initial temperature
 rho, Cp, k = 1.0, 1.0, 1.0
 T = np.exp(-(Xc**2 + Yc**2) / (2 * 0.05**2))
