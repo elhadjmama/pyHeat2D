@@ -164,8 +164,6 @@ python -m pytest tests        # or: python tests/test_steady_state.py
 
 ## Documentation
 
-- *Technical report: Python package for 2D diffusion simulation*: user guide with examples (composite wall,
-  shapes other than a rectangle).
 - Guene El Hadji Mama, Ndao. Makha , Ba. Oumar, *A generic two-dimensional solver for heat diffusion problems and its
   application to Earth heat transfer* (in submission): method and validation.
 
